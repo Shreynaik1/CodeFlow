@@ -1,8 +1,6 @@
 # 🌿 CodeFlow – Green UI Website
 
-A modern and responsive developer website built using **React + Vite**, redesigned with a clean and attractive **green-themed UI**.
-
-This project focuses on smooth UI, fast performance, and clean component structure.
+A developer-focused landing page built using React and Vite, featuring a green-themed UI, interactive sections, and a light/dark mode toggle for enhanced user experience.
 
 ---
 
