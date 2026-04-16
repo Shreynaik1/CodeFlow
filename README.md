@@ -27,7 +27,6 @@ This project focuses on smooth UI, fast performance, and clean component structu
 
 ## 📸 Screenshots
 
-<img width="1886" height="850" alt="dark-theme2" src="https://github.com/user-attachments/assets/09d0806c-e9e7-4a32-89ed-2bcac2cd644b" />
 <img width="1886" height="857" alt="dark-theme" src="https://github.com/user-attachments/assets/c1cf88ed-855a-499f-97eb-b2d90b82cde9" />
 <img width="1886" height="861" alt="darktehem" src="https://github.com/user-attachments/assets/0a72c11f-19f7-440a-b09b-281c737a7aa0" />
 <img width="1886" height="858" alt="testomonials" src="https://github.com/user-attachments/assets/73b55fa5-d4bd-486b-9907-9ef7f0d31b54" />
