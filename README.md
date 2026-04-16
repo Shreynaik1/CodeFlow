@@ -1,7 +1,11 @@
 # 🌿 CodeFlow – Green UI Website
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-Fast-yellow)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Utility--First-green)
 
 A developer-focused landing page built using React and Vite, featuring a green-themed UI, interactive sections, and a light/dark mode toggle for enhanced user experience.
 
+👉 Designed and developed with focus on UI/UX and performance optimization.
 ---
 
 ## 🚀 Features
@@ -64,11 +68,9 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 
 
 
-
 ## 🌐 Live Demo
 
-🚀 Live Demo: https://code-flow-jet.vercel.app/
-
+https://code-flow-jet.vercel.app/
 
 ---
 
@@ -93,7 +95,13 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 - Structuring React components efficiently
 
   
+## 🚀 Future Improvements
 
+- Add backend integration  
+- Add authentication system  
+- Convert into full-stack application
+  
+  
 ## 🙌 Author
 
 **Shrey Naik**
