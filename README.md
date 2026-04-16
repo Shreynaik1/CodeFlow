@@ -67,7 +67,7 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 
 ## 🌐 Live Demo
 
-https://code-flow-jet.vercel.app/
+🚀 Live Demo: https://code-flow-jet.vercel.app/
 
 
 ---
@@ -76,12 +76,12 @@ https://code-flow-jet.vercel.app/
 
 ## ✨ Improvements Made
 
-* Redesigned UI with green theme
-* Improved layout and responsiveness
-* Enhanced user experience with animations
-
-
-
+* Redesigned UI with green theme  
+* Implemented light/dark mode toggle  
+* Improved layout and responsiveness  
+* Added interactive animations  
+* Enhanced overall user experience
+  
 ---
 
 
