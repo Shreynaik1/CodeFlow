@@ -1,20 +1,20 @@
-# 🌿 CodeFlow – Green UI Website
+#  CodeFlow – Green UI Website
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Vite](https://img.shields.io/badge/Vite-Fast-yellow)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-Utility--First-green)
 
 A developer-focused landing page built using React and Vite, featuring a green-themed UI, interactive sections, and a light/dark mode toggle for enhanced user experience.
 
-👉 Designed and developed with focus on UI/UX and performance optimization.
+ Designed and developed with focus on UI/UX and performance optimization.
 ---
 
 ## 🚀 Features
 
-* 🌿 Custom Green UI Design
-* ⚡ Lightning-fast performance with Vite
-* 🎨 Reusable React Components
-* 📱 Fully Responsive (Mobile + Desktop)
-* ✨ Smooth animations and transitions
+*  Custom Green UI Design
+*  Lightning-fast performance with Vite
+*  Reusable React Components
+*  Fully Responsive (Mobile + Desktop)
+*  Smooth animations and transitions
 
   
 
@@ -22,7 +22,7 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 
 
 
-## 🔍 Key Sections
+##  Key Sections
 
 
 - Hero section with animated background  
@@ -32,7 +32,7 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 
 
   
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * React.js
 * Vite
@@ -44,7 +44,6 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
 ### 🌙 Dark Theme
 
@@ -84,7 +83,7 @@ https://code-flow-jet.vercel.app/
 
 
 
-## ✨ Improvements Made
+##  Improvements Made
 
 * Redesigned UI with green theme  
 * Implemented light/dark mode toggle  
@@ -96,21 +95,21 @@ https://code-flow-jet.vercel.app/
 
 
 
-## 📚 What I Learned
+##  What I Learned
 
 - Building responsive UI using Tailwind CSS  
 - Managing themes (light/dark mode)  
 - Structuring React components efficiently
 
   
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add backend integration  
 - Add authentication system  
 - Convert into full-stack application
   
   
-## 🙌 Author
+##  Author
 
 **Shrey Naik**
 
