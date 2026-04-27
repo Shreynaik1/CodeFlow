@@ -8,7 +8,7 @@ A developer-focused landing page built using React and Vite, featuring a green-t
  Designed and developed with focus on UI/UX and performance optimization.
 ---
 
-## 🚀 Features
+## Features
 
 *  Custom Green UI Design
 *  Lightning-fast performance with Vite
@@ -42,10 +42,10 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 
-### 🌙 Dark Theme
+###  Dark Theme
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c1cf88ed-855a-499f-97eb-b2d90b82cde9" width="800"/>
@@ -61,7 +61,7 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 
 ---
 
-### 🌞 Light Theme
+### Light Theme
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f032fc37-b42f-4afd-bcbc-5cfea3902cb1" width="800"/>
@@ -75,7 +75,7 @@ A developer-focused landing page built using React and Vite, featuring a green-t
 <img src="https://github.com/user-attachments/assets/05a7faa4-2da0-43bb-8e6d-7c409ae94d9a" width="800"/>
 </p>
 
-## 🌐 Live Demo
+##  Live Demo
 
 https://code-flow-jet.vercel.app/
 
